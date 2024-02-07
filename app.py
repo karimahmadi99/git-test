@@ -14,7 +14,3 @@ class Hello:
         self.l_name = l_name
 
 
-class Hello:
-    def __init__(self, name,l_name):
-        self.name = name
-        self.l_name = l_name
