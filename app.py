@@ -22,3 +22,11 @@ while True:
     print(e)
     if e == n :
         break
+
+n = 22
+e = 0
+while True:
+    e +=1
+    print(e)
+    if e == n :
+        break
