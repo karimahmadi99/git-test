@@ -13,6 +13,10 @@ class Hello:
         self.name = name
         self.l_name = l_name
 
+    def run(self):
+        loge = self.l_name + " " + self.name 
+        return loge
+
 
 
 n = 22
@@ -31,18 +35,3 @@ while True:
     if e == n :
         break
 
-print("hello: ")
-print("hello: ")
-print("hello: ")
-print("hello: ")
-print("hello: ")
-print("hello: ")
-print("hello: ")
-print("hello: ")
-print("hello: ")
-print("hello: ")
-print("hello: ")
-print("hello: ")
-print("hello: ")
-print("hello: ")
-print("hello: ")
