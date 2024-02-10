@@ -16,6 +16,9 @@ class Hello:
     def run(self):
         loge = self.l_name + " " + self.name 
         return loge
+    
+my = Hello('ahmadi', 'amir')
+my.run()
 
 
 
