@@ -38,3 +38,5 @@ while True:
     if e == n :
         break
 
+print("hello")
+b = "hello"
